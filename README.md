@@ -1,3 +1,7 @@
+For information how do this, watch these lessons on youtube
+https://www.youtube.com/watch?v=0grybmrgc2Q&list=PL0lO_mIqDDFWjZpUTRJ8cBAsTJ5WFk4Cs
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
